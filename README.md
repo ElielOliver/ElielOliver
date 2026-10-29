@@ -1,44 +1,34 @@
-# Olá, eu sou o Eliel Miguel! 🚀
+# Olá, eu sou o [Seu Nome]! 👋
 
-### 👨‍💻 Sobre Mim
-* 🎓 Estudante de **Engenharia de Software** na **UVV** 🏫
-* ⚙️ Focado no desenvolvimento **Back-end**, criando soluções robustas e eficientes.
-* 🧠 Sempre aprendendo novas tecnologias e aprimorando lógica de programação.
+### 🚀 Sobre Mim
+* 💻 Atualmente focado em **[Sua Área, ex: Desenvolvimento Web / Fullstack]**
+* 🎓 [Estudante de X / Licenciado em Y / Desenvolvedor Autónomo]
+* 💡 Gosto de criar soluções que resolvem problemas reais e otimizam processos.
+* 💬 Pergunte-me sobre: **[Tecnologia favorita, ex: React, Python, UI/UX]**
 
 ---
 
 ### 🛠️ Linguagens e Tecnologias que Domino
 
-<p align="left">
-  <!-- Python -->
-  <img src="https://shields.io" alt="Python" />&nbsp;
-  <!-- JavaScript -->
-  <img src="https://shields.io" alt="JavaScript" />&nbsp;
-  <!-- SQL -->
-  <img src="https://shields.io" alt="SQL" />
-</p>
+| Categoria | Tecnologias |
+| :--- | :--- |
+| **Frontend** | ![HTML5](https://shields.io) ![CSS3](https://shields.io) ![JavaScript](https://shields.io) |
+| **Backend** | ![NodeJS](https://shields.io) ![Python](https://shields.io) |
+| **Ferramentas** | ![Git](https://shields.io) ![GitHub](https://shields.io) ![VS Code](https://shields.io) |
 
-#### 🧰 Ferramentas e Ambientes
+*(Dica: Pode trocar os logos acima no site shields.io pelas tecnologias exatas que usa, como Java, PHP, C#, etc.)*
+
+---
+
+### 📊 As Minhas Estatísticas do GitHub
+
 <p align="left">
-  <!-- Git -->
-  <img src="https://shields.io" alt="Git" />&nbsp;
-  <!-- GitHub -->
-  <img src="https://shields.io" alt="GitHub" />&nbsp;
-  <!-- VS Code -->
-  <img src="https://shields.io" alt="VS Code" />
+  <img height="180em" src="https://vercel.app" />
+  <img height="180em" src="https://vercel.app" />
 </p>
 
 ---
 
-### 📊 Minhas Estatísticas do GitHub
-
-<p align="left">
-  <img height="180" src="https://vercel.app" alt="Estatísticas Eliel" />
-  <img height="180" src="https://vercel.app" alt="Linguagens Eliel" />
-</p>
-
----
-
-### 📫 Vamos nos conectar?
-* 💼 **LinkedIn:** [in/eliel-oliver](https://linkedin.com)
-* 📧 **E-mail:** [engsoftware.eliel@gmail.com](mailto:engsoftware.eliel@gmail.com)
+### 📫 Como me encontrar
+* 💼 LinkedIn: [://linkedin.com](https://://linkedin.com)
+* 📧 E-mail: [seu.email@email.com](mailto:seu.email@email.com)
