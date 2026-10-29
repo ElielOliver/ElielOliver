@@ -12,12 +12,9 @@
 
 | Categoria | Tecnologias |
 | :--- | :--- |
-| **Frontend** | ![HTML5]([https://github.com/ElielOliver/ElielOliver/blob/main/image/css3-02-svgrepo-com.svg](https://github.com/ElielOliver/ElielOliver/blob/main/image/html5-svgrepo-com.svg)) ![CSS3]([https://shields.io](https://github.com/ElielOliver/ElielOliver/blob/main/image/css3-02-svgrepo-com.svg)) ![JavaScript]([https://shields.io](https://github.com/ElielOliver/ElielOliver/blob/main/image/javascript-155-svgrepo-com.svg)) |
-| **Backend** | ![NodeJS]([https://shields.io](https://github.com/ElielOliver/ElielOliver/blob/main/image/nodejs01-svgrepo-com.svg)) ![Python]([https://shields.io](https://github.com/ElielOliver/ElielOliver/blob/main/image/python-127-svgrepo-com.svg)) |
-| **Ferramentas** | ![Git]([https://shields.io](https://github.com/ElielOliver/ElielOliver/blob/main/image/git-merge-svgrepo-com.svg)) ![GitHub]([https://shields.io](https://github.com/ElielOliver/ElielOliver/blob/main/image/github-142-svgrepo-com.svg)) ![VS Code]([https://shields.io](https://github.com/ElielOliver/ElielOliver/blob/main/image/vs-code-logo-microsoft-svgrepo-com.svg)) |
-
-*(Dica: Pode trocar os logos acima no site shields.io pelas tecnologias exatas que usa, como Java, PHP, C#, etc.)*
-
+| **Frontend** | ![HTML5](https://raw.githubusercontent.com/ElielOliver/ElielOliver/main/image/html5-svgrepo-com.svg) ![CSS3](https://raw.githubusercontent.com/ElielOliver/ElielOliver/main/image/css3-02-svgrepo-com.svg) ![JavaScript](https://raw.githubusercontent.com/ElielOliver/ElielOliver/main/image/javascript-155-svgrepo-com.svg) |
+| **Backend** | ![NodeJS](https://raw.githubusercontent.com/ElielOliver/ElielOliver/main/image/nodejs01-svgrepo-com.svg) ![Python](https://raw.githubusercontent.com/ElielOliver/ElielOliver/main/image/python-127-svgrepo-com.svg) |
+| **Ferramentas** | ![Git](https://raw.githubusercontent.com/ElielOliver/ElielOliver/main/image/git-merge-svgrepo-com.svg) ![GitHub](https://raw.githubusercontent.com/ElielOliver/ElielOliver/main/image/github-142-svgrepo-com.svg) ![VS Code](https://raw.githubusercontent.com/ElielOliver/ElielOliver/main/image/vs-code-logo-microsoft-svgrepo-com.svg) |
 ---
 
 ### 📊 As Minhas Estatísticas do GitHub
