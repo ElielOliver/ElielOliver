@@ -1,16 +1,52 @@
-## Hi there 👋
+# Olá, eu sou o Eliel Miguel! 🚀
 
-<!--
-**ElielOliver/ElielOliver** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+  <img src="https://demolab.com" alt="Typing SVG" />
+</p>
 
-Here are some ideas to get you started:
+### 👨‍💻 Sobre Mim
+* 🎓 Estudante de **Engenharia de Software** na **UVV** 🏫
+* ⚙️ Focado no desenvolvimento **Back-end**, criando soluções robustas e eficientes.
+* 🧠 Sempre aprendendo novas tecnologias e aprimorando lógica de programação.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Linguagens e Tecnologias que Domino
+
+<p align="left">
+  <!-- Python -->
+  <img src="https://shields.io" alt="Python" />
+  <!-- JavaScript -->
+  <img src="https://shields.io" alt="JavaScript" />
+  <!-- SQL -->
+  <img src="https://shields.io" alt="SQL" />
+</p>
+
+#### 🧰 Ferramentas e Ambientes
+<p align="left">
+  <!-- Git -->
+  <img src="https://shields.io" alt="Git" />
+  <!-- GitHub -->
+  <img src="https://shields.io" alt="GitHub" />
+  <!-- VS Code -->
+  <img src="https://shields.io" alt="VS Code" />
+</p>
+
+---
+
+### 📊 Minhas Estatísticas do GitHub
+
+<p align="left">
+  <img height="180em" src="https://vercel.app" alt="Estatísticas do GitHub" />
+  <img height="180em" src="https://vercel.app" alt="Linguagens mais usadas" />
+</p>
+
+<p align="left">
+  <img height="150em" src="https://herokuapp.com" alt="Sequência de Commits" />
+</p>
+
+---
+
+### 📫 Vamos nos conectar?
+* 💼 LinkedIn: [in/eliel-oliver](https://linkedin.com)
+* 📧 E-mail: [engsoftware.eliel@gmail.com](mailto:engsoftware.eliel@gmail.com)
