@@ -1,10 +1,9 @@
 # Olá, eu sou o Eliel! 👋
 
 ### 🚀 Sobre Mim
-* 💻 Atualmente focado em **[Sua Área, ex: Desenvolvimento Web / Fullstack]**
-* 🎓 [Estudante de X / Licenciado em Y / Desenvolvedor Autónomo]
+* 💻 Atualmente focado em **Desenvolvimento Backend**
+* 🎓 Cursando Engenharia de Software pela UVV - Universidade Vila Velha
 * 💡 Gosto de criar soluções que resolvem problemas reais e otimizam processos.
-* 💬 Pergunte-me sobre: **[Tecnologia favorita, ex: React, Python, UI/UX]**
 
 ---
 
