@@ -12,9 +12,9 @@
 
 | Categoria | Tecnologias |
 | :--- | :--- |
-| **Frontend** | ![HTML5](https://shields.io) ![CSS3](https://shields.io) ![JavaScript](https://shields.io) |
-| **Backend** | ![NodeJS](https://shields.io) ![Python](https://shields.io) |
-| **Ferramentas** | ![Git](https://shields.io) ![GitHub](https://shields.io) ![VS Code](https://shields.io) |
+| **Frontend** | ![HTML5]([https://github.com/ElielOliver/ElielOliver/blob/main/image/css3-02-svgrepo-com.svg](https://github.com/ElielOliver/ElielOliver/blob/main/image/html5-svgrepo-com.svg)) ![CSS3]([https://shields.io](https://github.com/ElielOliver/ElielOliver/blob/main/image/css3-02-svgrepo-com.svg)) ![JavaScript]([https://shields.io](https://github.com/ElielOliver/ElielOliver/blob/main/image/javascript-155-svgrepo-com.svg)) |
+| **Backend** | ![NodeJS]([https://shields.io](https://github.com/ElielOliver/ElielOliver/blob/main/image/nodejs01-svgrepo-com.svg)) ![Python]([https://shields.io](https://github.com/ElielOliver/ElielOliver/blob/main/image/python-127-svgrepo-com.svg)) |
+| **Ferramentas** | ![Git]([https://shields.io](https://github.com/ElielOliver/ElielOliver/blob/main/image/git-merge-svgrepo-com.svg)) ![GitHub]([https://shields.io](https://github.com/ElielOliver/ElielOliver/blob/main/image/github-142-svgrepo-com.svg)) ![VS Code]([https://shields.io](https://github.com/ElielOliver/ElielOliver/blob/main/image/vs-code-logo-microsoft-svgrepo-com.svg)) |
 
 *(Dica: Pode trocar os logos acima no site shields.io pelas tecnologias exatas que usa, como Java, PHP, C#, etc.)*
 
@@ -22,10 +22,16 @@
 
 ### 📊 As Minhas Estatísticas do GitHub
 
-<p align="left">
-  <img height="180em" src="https://vercel.app" />
-  <img height="180em" src="https://vercel.app" />
-</p>
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=ElielOliver&show_icons=true&theme=radical" alt="Stats" />
+    </td>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElielOliver&layout=compact&theme=radical" alt="Langs" />
+    </td>
+  </tr>
+</table>
 
 ---
 
