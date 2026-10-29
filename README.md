@@ -24,5 +24,5 @@
 ---
 
 ### 📫 Como me encontrar
-* 💼 LinkedIn: [://linkedin.com](https://://linkedin.com)
-* 📧 E-mail: [seu.email@email.com](mailto:seu.email@email.com)
+* 💼 LinkedIn: [ElielOliver](https://www.linkedin.com/in/eliel-oliver)
+* 📧 E-mail: [engsoftware.eliel@gmail.com](engsoftware.eliel@gmail.com)
