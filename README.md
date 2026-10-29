@@ -19,16 +19,7 @@
 
 ### 📊 As Minhas Estatísticas do GitHub
 
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=ElielOliver&show_icons=true&theme=radical" alt="Stats" />
-    </td>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElielOliver&layout=compact&theme=radical" alt="Langs" />
-    </td>
-  </tr>
-</table>
+![Stats](https://github-readme-stats.vercel.app/api?username=ElielOliver&show_icons=true&theme=radical)
 
 ---
 
