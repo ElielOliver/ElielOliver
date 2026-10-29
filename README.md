@@ -19,7 +19,7 @@
 
 ### 📊 As Minhas Estatísticas do GitHub
 
-![Stats](https://github-readme-stats.vercel.app/api?username=ElielOliver&show_icons=true&theme=radical)
+[![GitHub Streak](https://streak-stats.demolab.com?user=ElielOliver&theme=radical)](https://git.io/streak-stats)
 
 ---
 
